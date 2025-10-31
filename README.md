@@ -24,8 +24,15 @@ The [The Algorithms](https://github.com/NovaVerseOrg/FluxNet) is not ready for a
 
 ## Contents
 
+- [Mathematics](#mathematics)
 - [Team](#team)
 
+     
+
+# Mathematics
+| Difficulty | Filename | Brief Description                                                      |
+| ---------- | -------- | ---------------------------------------------------------------------- |
+| **Easy**   | area.cpp | Computes area of basic shapes (circle, triangle, etc.) using formulas. |
 
 # Team
 
